@@ -5,7 +5,10 @@ This repository contains a short Matlab script I wrote in my spare time that get
 ### Graphics
 
 #### Spatial Domain
-Google map showing the spatial domain of the analysis as a shaded box
+Google map showing the spatial domain of the analysis as a shaded box: 
+![alt text][map]
+
+[map]: https://github.com/superflyben/collision_data/blob/master/images/data_domain.PNG "Map of data domain"
 
 #### Collision Locations
 Matlab graphic showing collision location as blue dots in lat-long coordinates
