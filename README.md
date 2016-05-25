@@ -12,6 +12,12 @@ Google map showing the spatial domain of the analysis as a shaded box:
 
 #### Collision Locations
 Matlab graphic showing collision location as blue dots in lat-long coordinates
+![alt text][locations]
+
+[locations]: https://github.com/superflyben/collision_data/blob/master/images/accident_locations.jpg "Collision locations"
 
 #### Collision Histogram
 Matlab graphic showing the number of collisions as a function of road temperature
+![alt text][histogram]
+
+[histogram]: https://github.com/superflyben/collision_data/blob/master/images/collision_histogram.jpg "Histogram of collision temperatures"
